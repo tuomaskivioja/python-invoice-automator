@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+instance/
+.env
+oauth_client.json
+
+
+oauth_client.json
